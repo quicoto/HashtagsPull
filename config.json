@@ -1,5 +1,28 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "dotnet", "csharp" ],
-    "Instances": [ "hachyderm.io", "mastodon.social" ]
+    "Tags": [
+        "bluelock",
+        "tsurune",
+        "haikyuu",
+        "MastoAdmin",
+        "TheLastOfUs",
+        "Zelda",
+        "TearsOfTheKingdom"
+    ],
+    "Instances": [
+        "ani.work",
+        "urusai.social",
+        "mastodon.social",
+        "mastodon.cloud",
+        "mstdn.social",
+        "mastodon.online",
+        "mas.to",
+        "mastodon.world",
+        "mastodon.lol",
+        "masto.ai",
+        "c.im",
+        "mstdn.party",
+        "ohai.social",
+        "mstdn.games"
+    ]
 }
