@@ -1,33 +1,36 @@
 {
-    "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [
-        "bluelock",
-        "Jigokuraku",
-        "tsurune",
-        "haikyuu",
-        "MastoAdmin",
-        "Zelda",
-        "TearsOfTheKingdom",
-        "anime",
-        "RedSox",
-        "TheMandalorian"
-    ],
-    "Instances": [
-        "wandering.shop",
-        "blorbo.social",
-        "ani.work",
-        "urusai.social",
-        "mastodon.social",
-        "mastodon.cloud",
-        "mstdn.social",
-        "mastodon.online",
-        "mas.to",
-        "mastodon.world",
-        "mastodon.lol",
-        "masto.ai",
-        "c.im",
-        "mstdn.party",
-        "ohai.social",
-        "mstdn.games"
-    ]
+  "FakeRelayUrl": "https://fakerelay.gervas.io",
+  "Tags": [
+    "Jigokuraku",
+    "MastoAdmin",
+    "RedSox",
+    "anime",
+    "bakuman",
+    "baseball",
+    "bluelock",
+    "haikyuu",
+    "manga",
+    "tsurune",
+    "CSS",
+    "JavaScript",
+    "WebDevelopment"
+  ],
+  "Instances": [
+    "wandering.shop",
+    "blorbo.social",
+    "ani.work",
+    "urusai.social",
+    "mastodon.social",
+    "mastodon.cloud",
+    "mstdn.social",
+    "mastodon.online",
+    "mas.to",
+    "mastodon.world",
+    "mastodon.lol",
+    "masto.ai",
+    "c.im",
+    "mstdn.party",
+    "ohai.social",
+    "mstdn.games"
+  ]
 }
