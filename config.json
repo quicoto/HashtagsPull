@@ -16,21 +16,25 @@
     "WebDevelopment"
   ],
   "Instances": [
-    "wandering.shop",
-    "blorbo.social",
+    "akiba.party",
     "ani.work",
-    "urusai.social",
-    "mastodon.social",
-    "mastodon.cloud",
-    "mstdn.social",
-    "mastodon.online",
-    "mas.to",
-    "mastodon.world",
-    "mastodon.lol",
-    "masto.ai",
+    "anime.kona.moe",
+    "antabaka.me",
+    "blorbo.social",
     "c.im",
+    "gensokyo.social",
+    "mas.to",
+    "masto.ai",
+    "mastodon.cloud",
+    "mastodon.lol",
+    "mastodon.online",
+    "mastodon.social",
+    "mastodon.world",
+    "mstdn.games",
     "mstdn.party",
+    "mstdn.social",
     "ohai.social",
-    "mstdn.games"
+    "urusai.social",
+    "wandering.shop"
   ]
 }
