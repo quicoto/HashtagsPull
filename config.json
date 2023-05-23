@@ -1,18 +1,18 @@
 {
   "FakeRelayUrl": "https://fakerelay.gervas.io",
   "Tags": [
+    "Anime",
+    "Bakuman",
+    "Baseball",
+    "Bluelock",
+    "CSS",
+    "Haikyuu",
+    "JavaScript",
     "Jigokuraku",
+    "Manga",
     "MastoAdmin",
     "RedSox",
-    "anime",
-    "bakuman",
-    "baseball",
-    "bluelock",
-    "haikyuu",
-    "manga",
-    "tsurune",
-    "CSS",
-    "JavaScript",
+    "Tsurune",
     "WebDevelopment"
   ],
   "Instances": [
