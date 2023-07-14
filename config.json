@@ -24,6 +24,7 @@
     "Zom100"
   ],
   "Instances": [
+    "airwaves.social",
     "akiba.party",
     "ani.work",
     "anime.kona.moe",
@@ -42,14 +43,18 @@
     "mastodonapp.uk",
     "mastodon.social",
     "mastodon.world",
+    "misskey.gg",
     "mstdn.ca",
     "mstdn.games",
     "mstdn.party",
     "mstdn.social",
+    "misskey.secinet.jp",
     "ohai.social",
     "sakurajima.moe",
     "social.lol",
+    "submarin.online",
     "urusai.social",
+    "universeodon.com",
     "wandering.shop"
   ]
 }
