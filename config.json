@@ -1,19 +1,14 @@
 {
   "FakeRelayUrl": "https://fakerelay.gervas.io",
   "Tags": [
-    "Ahsoka",
     "AoAshi",
     "Anime",
     "Bakuman",
-    "Baseball",
     "Bleach",
     "BlueExorcist",
     "BlueLock",
-    "CSS",
-    "Frontend",
     "Haikyuu",
     "Haikyu",
-    "JavaScript",
     "JujutsuKaisen",
     "Loki",
     "Manga",
@@ -27,8 +22,6 @@
     "TokyoRevengers",
     "Tsurune",
     "WindBreaker",
-    "WebDevelopment",
-    "WebPerformance",
     "Zom100BucketListOfTheDead",
     "Zom100"
   ],
